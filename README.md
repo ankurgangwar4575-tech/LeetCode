@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
 | ------- |
