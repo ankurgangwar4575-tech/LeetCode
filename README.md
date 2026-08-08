@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0300-longest-increasing-subsequence](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3731-find-missing-elements) |
@@ -46,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0715-range-module](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0715-range-module) |
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0715-range-module](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0715-range-module) |
 ## Hash Table
@@ -163,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
 ## Merge Sort
 |  |
@@ -176,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
