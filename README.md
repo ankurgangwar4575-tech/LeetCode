@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -190,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
