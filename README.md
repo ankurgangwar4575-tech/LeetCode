@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1291-sequential-digits) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
