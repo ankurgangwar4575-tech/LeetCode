@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -249,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
