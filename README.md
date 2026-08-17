@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0041-first-missing-positive) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
