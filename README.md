@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0041-first-missing-positive) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0031-next-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
