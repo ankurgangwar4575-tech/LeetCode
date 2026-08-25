@@ -1,9 +1,9 @@
 class Solution {
     public int[] smallestSubarrays(int[] nums) {
         int n = nums.length;
-        long[][] pref = new long[n + 1][32];
+        long[][] pref = new long[n + 1][30];
         for (int i = 0; i < n + 1; i++) {
-            for (int b = 0; b < 32; b++)
+            for (int b = 0; b < 30; b++)
                 pref[i][b] = 0;
         }
         buildPrefixArray(pref, nums);
@@ -31,9 +31,9 @@ class Solution {
     private void buildPrefixArray(long[][] pref, int[] nums) {
         int n = nums.length;
         for (int i = 0; i < n; i++) {
-            for (int b = 0; b < 32; b++) {
+            for (int b = 0; b < 30; b++) {
                 pref[i + 1][b] = pref[i][b];
-                if ((nums[i]>>b & 1) == 1)
+                if ((nums[i] >> b & 1) == 1)
                     pref[i + 1][b]++;
             }
         }
@@ -41,7 +41,7 @@ class Solution {
 
     private long bitwiseOr(long[][] pref, int l, int r) {
         long ans = 0;
-        for (int b = 0; b < 32; b++) {
+        for (int b = 0; b < 30; b++) {
             long oneBit = pref[r + 1][b] - pref[l][b];
             if (oneBit > 0)
                 ans |= 1 << b;
