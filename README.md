@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
+| [1922-count-good-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1922-count-good-numbers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1922-count-good-numbers) |
 ## Game Theory
 |  |
 | ------- |
