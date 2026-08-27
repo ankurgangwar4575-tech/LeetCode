@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0202-happy-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0478-generate-random-point-in-a-circle](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -334,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
