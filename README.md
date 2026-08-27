@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0204-count-primes](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0204-count-primes) |
 | [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0300-longest-increasing-subsequence](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0478-generate-random-point-in-a-circle](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0204-count-primes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1291-sequential-digits) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -341,4 +345,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0202-happy-number) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
