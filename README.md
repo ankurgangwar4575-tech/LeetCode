@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0069-sqrtx) |
 | [0478-generate-random-point-in-a-circle](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
