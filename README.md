@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0202-happy-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0848-shifting-letters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Brainteaser
 |  |
 | ------- |
