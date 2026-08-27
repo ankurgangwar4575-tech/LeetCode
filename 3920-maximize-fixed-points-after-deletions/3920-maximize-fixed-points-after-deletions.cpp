@@ -24,7 +24,8 @@ public:
             if (shift >= temp2.back())
                 temp2.push_back(shift);
             else {
-                int idx = upper_bound(temp2.begin(), temp2.end(), shift) - temp2.begin();
+                int idx = upper_bound(temp2.begin(), temp2.end(), shift) -
+                          temp2.begin();
                 temp2[idx] = shift;
             }
         }
