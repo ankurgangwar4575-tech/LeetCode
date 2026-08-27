@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3848-check-digitorial-permutation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Math
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3848-check-digitorial-permutation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
