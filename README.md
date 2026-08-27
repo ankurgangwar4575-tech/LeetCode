@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0739-daily-temperatures](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0739-daily-temperatures) |
 | [0848-shifting-letters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -308,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
