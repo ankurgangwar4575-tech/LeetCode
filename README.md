@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0367-valid-perfect-square](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0478-generate-random-point-in-a-circle](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
