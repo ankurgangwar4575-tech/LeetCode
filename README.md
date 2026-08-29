@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3731-find-missing-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0848-shifting-letters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0848-shifting-letters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Brainteaser
 |  |
 | ------- |
