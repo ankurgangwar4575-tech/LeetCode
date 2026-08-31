@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
