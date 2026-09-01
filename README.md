@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1227-airplane-seat-assignment-probability](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Stack
 |  |
@@ -389,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0204-count-primes) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
