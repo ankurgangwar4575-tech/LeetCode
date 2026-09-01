@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1829-maximum-xor-for-each-query](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0715-range-module](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0715-range-module) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3490-count-beautiful-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3490-count-beautiful-numbers) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Recursion
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -350,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1829-maximum-xor-for-each-query](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -404,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1093-statistics-from-a-large-sample](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1093-statistics-from-a-large-sample) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
