@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1829-maximum-xor-for-each-query](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1829-maximum-xor-for-each-query](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0848-shifting-letters) |
 | [1109-corporate-flight-bookings](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1829-maximum-xor-for-each-query](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Brainteaser
 |  |
