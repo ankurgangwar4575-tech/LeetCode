@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0327-count-of-range-sum](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0486-predict-the-winner](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0525-contiguous-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0739-daily-temperatures) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0202-happy-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0525-contiguous-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0525-contiguous-array) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0525-contiguous-array) |
 | [0848-shifting-letters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0848-shifting-letters) |
 | [1109-corporate-flight-bookings](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
