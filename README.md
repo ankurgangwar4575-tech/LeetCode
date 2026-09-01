@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3848-check-digitorial-permutation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3848-check-digitorial-permutation) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3490-count-beautiful-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3490-count-beautiful-numbers) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Recursion
 |  |
 | ------- |
