@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3858-minimum-bitwise-or-from-grid](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3920-maximize-fixed-points-after-deletions) |
 ## Binary Search
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3848-check-digitorial-permutation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
