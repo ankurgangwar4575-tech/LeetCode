@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2381-shifting-letters-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0848-shifting-letters](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0848-shifting-letters) |
 | [1927-sum-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1927-sum-game) |
+| [2381-shifting-letters-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1829-maximum-xor-for-each-query](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
+| [2381-shifting-letters-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Brainteaser
 |  |
