@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
