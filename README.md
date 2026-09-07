@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1829-maximum-xor-for-each-query](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
