@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1829-maximum-xor-for-each-query](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1510-stone-game-iv) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1922-count-good-numbers](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1927-sum-game) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1829-maximum-xor-for-each-query](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2401-longest-nice-subarray](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2401-longest-nice-subarray) |
