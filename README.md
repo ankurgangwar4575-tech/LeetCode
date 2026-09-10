@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3361-shift-distance-between-two-strings](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3361-shift-distance-between-two-strings](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1829-maximum-xor-for-each-query](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [2381-shifting-letters-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/2381-shifting-letters-ii) |
+| [3361-shift-distance-between-two-strings](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ankurgangwar4575-tech/LeetCode/tree/master/3904-smallest-stable-index-ii) |
